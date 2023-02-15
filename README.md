@@ -1,2 +1,2 @@
-# Java-Tratamento-exce-es
+# Java-Tratamento-excecoes
 Java-Tratamento-exceções
